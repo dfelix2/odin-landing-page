@@ -53,3 +53,7 @@ button {
     display: flex;
     flex-direction: row;
 }
+
+img {
+    max-height: 200px;
+}
