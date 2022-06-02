@@ -31,7 +31,6 @@ a {
     width: 500px;
     display: flex;
     flex-wrap: wrap;
-    
 }
 
 .main {
@@ -57,5 +56,35 @@ button {
 
 img {
     max-height: 200px;
-    
 }
+
+/* section two */
+
+.second-section {
+    padding: 50px 500px;
+}
+
+.heading {
+    font-size: 36px;
+    font-weight: bold;
+    text-align: center;
+}
+
+.content2 {
+    margin-top: 40px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.second-section img {
+    max-height: 100px;
+}
+
+.chilli,
+.barberry,
+.pepper,
+.saffron {
+    width: 100px;
+}
+
